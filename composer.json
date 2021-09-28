@@ -29,7 +29,7 @@
     },
     "extra": {
         "branch-alias": {
-            "dev-phpseclib-version-upgrade": "12.7.x-dev"
+            "dev-phpseclib-version-upgrade": "12.17.x-dev"
         }
     }
 }
