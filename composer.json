@@ -26,10 +26,5 @@
     "autoload":{
      	"psr-0":{"cnp\\sdk" : "."},
         "classmap": ["cnp/"]
-    },
-    "extra": {
-        "branch-alias": {
-            "dev-phpseclib-version-upgrade": "12.17.x-dev"
-        }
     }
 }
